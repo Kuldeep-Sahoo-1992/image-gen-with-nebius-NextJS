@@ -79,4 +79,5 @@ This project is **MIT Licensed**.
 ---
 
 🔥 Happy coding! Let me know if you need any modifications. 🚀
-```
+
+- **Live demo** – [Live](https://image-gen-with-nebius-next-js.vercel.app/)  
