@@ -1,5 +1,4 @@
 
-```md
 # AI Image Generator 🚀🎨  
 
 A modern AI-powered image generation web app built using **Next.js 15**, **React 19**, and **Tailwind CSS**. Users can enter prompts to generate images using OpenAI's API, manage their gallery, and download images.  
